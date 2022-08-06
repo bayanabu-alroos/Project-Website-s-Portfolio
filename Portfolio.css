@@ -280,7 +280,7 @@ body{
     display: flex;
     flex-wrap: wrap;
     background-color: #f1f1f1;
-    width: 75%;
+    width: 80%;
     margin: auto;
   }
   
@@ -288,9 +288,9 @@ body{
     background-color: white;
     margin: 10px;
     text-align:left;
-    padding: 10px;
+    padding: 5px;
     border-left: 3px solid #ff5722;
-    width: 30%;
+    width:30%;
   }
   .link{
   text-decoration: none;
